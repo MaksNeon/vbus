@@ -1,0 +1,44 @@
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\bin\Debug\net7.0\Vbus.exe
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\bin\Debug\net7.0\Vbus.deps.json
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\bin\Debug\net7.0\Vbus.runtimeconfig.json
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\bin\Debug\net7.0\Vbus.dll
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\bin\Debug\net7.0\Vbus.pdb
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\bin\Debug\net7.0\NAudio.dll
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\bin\Debug\net7.0\NAudio.Asio.dll
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\bin\Debug\net7.0\NAudio.Core.dll
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\bin\Debug\net7.0\NAudio.Midi.dll
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\bin\Debug\net7.0\NAudio.Wasapi.dll
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\bin\Debug\net7.0\NAudio.WinMM.dll
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\obj\Debug\net7.0\Vbus.csproj.AssemblyReference.cache
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\obj\Debug\net7.0\Vbus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\obj\Debug\net7.0\Vbus.AssemblyInfoInputs.cache
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\obj\Debug\net7.0\Vbus.AssemblyInfo.cs
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\obj\Debug\net7.0\Vbus.csproj.CoreCompileInputs.cache
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\obj\Debug\net7.0\Vbus.csproj.CopyComplete
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\obj\Debug\net7.0\Vbus.dll
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\obj\Debug\net7.0\refint\Vbus.dll
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\obj\Debug\net7.0\Vbus.pdb
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\obj\Debug\net7.0\Vbus.genruntimeconfig.cache
+C:\Users\MAKSYM.PTTS\Documents\Vbus\Vbus\obj\Debug\net7.0\ref\Vbus.dll
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\bin\Debug\net7.0\Vbus.exe
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\bin\Debug\net7.0\Vbus.deps.json
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\bin\Debug\net7.0\Vbus.runtimeconfig.json
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\bin\Debug\net7.0\Vbus.dll
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\bin\Debug\net7.0\Vbus.pdb
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\bin\Debug\net7.0\NAudio.dll
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\bin\Debug\net7.0\NAudio.Asio.dll
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\bin\Debug\net7.0\NAudio.Core.dll
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\bin\Debug\net7.0\NAudio.Midi.dll
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\bin\Debug\net7.0\NAudio.Wasapi.dll
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\bin\Debug\net7.0\NAudio.WinMM.dll
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\obj\Debug\net7.0\Vbus.csproj.AssemblyReference.cache
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\obj\Debug\net7.0\Vbus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\obj\Debug\net7.0\Vbus.AssemblyInfoInputs.cache
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\obj\Debug\net7.0\Vbus.AssemblyInfo.cs
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\obj\Debug\net7.0\Vbus.csproj.CoreCompileInputs.cache
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\obj\Debug\net7.0\Vbus.csproj.CopyComplete
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\obj\Debug\net7.0\Vbus.dll
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\obj\Debug\net7.0\refint\Vbus.dll
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\obj\Debug\net7.0\Vbus.pdb
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\obj\Debug\net7.0\Vbus.genruntimeconfig.cache
+D:\Program Files\MaksNeonsFolder\Vbus\Vbus\obj\Debug\net7.0\ref\Vbus.dll
